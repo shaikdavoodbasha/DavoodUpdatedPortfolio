@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot  (Free to use)
+* source:	https://sketchfab.com/3d-models/robot-free-to-use-97b40d794da246e1b952f881cb184f15
+* author:	rodrigoscar (https://sketchfab.com/rodrigoscar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot  (Free to use)" (https://sketchfab.com/3d-models/robot-free-to-use-97b40d794da246e1b952f881cb184f15) by rodrigoscar (https://sketchfab.com/rodrigoscar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
